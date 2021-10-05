@@ -1,0 +1,10 @@
+bin/
+obj/
+/packages/
+riderModule.iml
+/_ReSharper.Caches/
+.DS_Store
+.idea/
+.vs/
+Uptobox_Folder_Downloader.sln.DotSettings.user
+Uptobox_Folder_Downloader/.DS_Store
